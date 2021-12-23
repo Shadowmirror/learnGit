@@ -5,3 +5,4 @@ Git tracks changes.
 Git add Kmirror
 Git add Gmirror
 Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
