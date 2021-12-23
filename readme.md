@@ -6,3 +6,5 @@ Git add Kmirror
 Git add Gmirror
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
+
+修改 dev readme 文件
